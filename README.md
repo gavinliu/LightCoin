@@ -1,0 +1,2 @@
+# LightCoin
+A block chain 
